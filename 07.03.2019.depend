@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1552001262 source:e:\project\c++\07.03.2019\main.cpp
+	<iostream>
+	<random>
+	<ctime>
+	<vector>
+	"alg.h"
+	<algorithm>
+	<iterator>
+	"dinamichesky_Massive.h"
+	"vector.h"
+
+1552001294 e:\project\c++\07.03.2019\alg.h
+	<algorithm>
+	<iostream>
+	<chrono>
+	<thread>
+
+1551995999 e:\project\c++\07.03.2019\dinamichesky_massive.h
+	"vector.h"
+
+1551999062 e:\project\c++\07.03.2019\vector.h
+	<initializer_list>
+	<iostream>
+	<algorithm>
+
